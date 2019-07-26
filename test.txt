@@ -1,7 +1,4 @@
 add a new file
 success
-<<<<<<< HEAD
-new a branch 
-=======
 new a branch
->>>>>>> feature1
+
